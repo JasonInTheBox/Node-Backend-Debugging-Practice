@@ -1,0 +1,18 @@
+{
+  "name": "ibm-practice-api-4",
+  "version": "1.0.0",
+  "description": "Debugging exercise: fix the bugs in this project-management Express API (projects, tasks, comments, nested routing, ownership, caching) until all tests pass.",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "jest"
+  },
+  "license": "UNLICENSED",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "supertest": "^6.3.4"
+  }
+}
